@@ -1,0 +1,583 @@
+ProviderID,ProviderName,Specialty,DepartmentID,EmploymentType,ClinicalGrade,YearsExperience,HireDate
+PRV00001,Dr. Nora Mustafa,Oncology,DEP004,Full-Time,Resident,4.6,2010-11-26
+PRV00002,DR. ARTA BERISHA,oncology,DEP012,FULL-TIME,Resident,6.7,2008-08-31
+PRV00003,Dr. Drita Hoxha,emergency medicine,DEP005,Part-Time,Senior Specialist,2.2,2013-10-07
+PRV00004,Dr. Elira Kelmendi,surgery,DEP011,Full-Time,Senior Specialist,7.8,2023-02-07
+PRV00005,Dr. Elira Rama,ORTHOPEDICS,DEP005,Part-Time,Senior Specialist,7.2,2024-02-24
+PRV00006,Dr. Elira Mustafa,Internal Medicine,DEP001,Full-Time,Resident,4.0,2024-06-15
+PRV00007,Dr. Mira Hoxha,SURGERY,DEP012,Contract,Senior Specialist,20.3,2009-10-23
+PRV00008,Dr. Valon Krasniqi,neurology,DEP012,FULL-TIME,Specialist,14.2,2009-12-06
+PRV00009,Dr. Elira Bytyqi,General Practice,DEP006,Contract,Consultant,4.4,2009-05-18
+PRV00010,Dr. Elira Berisha,Pediatrics,DEP009,Contract,Specialist,5.5,2010-05-03
+PRV00011,dr. arta gashi,Pediatrics,DEP013,Full-Time,Senior Specialist,4.9,2017-12-10
+PRV00012, Dr. Arta Gashi,Emergency Medicine,DEP003,Full-Time,Resident,10.4,2008-01-28
+PRV00013,Dr. Valon Bytyqi,Pediatrics,DEP005,Part-Time,Senior Specialist,10.1,2023-12-07
+PRV00014,Dr. Blerina Kelmendi,Oncology,DEP008,Full-Time,Resident,3.4,2023-09-14
+PRV00015,Dr. Arian Bytyqi,Pediatrics,DEP012,Full-Time ,SENIOR SPECIALIST,14.0,2011-09-23
+PRV00016,Dr. Arta Mustafa,Dermatology ,DEP013, Part-Time,consultant,1.8,2014-03-30
+PRV00017,Dr. Zana Morina,ENT,DEP002,full-time,Senior Specialist,4.9,2021-07-04
+PRV00018,Dr. Arben Morina,Emergency Medicine,DEP006,Full-Time,Specialist,13.6,2008-12-02
+PRV00019,Dr. Blerina Morina,Neurology ,DEP005,FULL-TIME,Specialist,5.4,2015-05-16
+PRV00020,Dr. Zana Bytyqi,EMERGENCY MEDICINE,DEP004,Full-Time,Senior Specialist,24.9,2008-02-04
+PRV00021,dr. elira krasniqi,General Practice,DEP012,Full-Time,SPECIALIST,12.6,2008-09-20
+PRV00022,Dr. Teuta Rama,Radiology,DEP008,Full-Time,Resident,10.2,2024-12-29
+PRV00023,Dr. Mira Bytyqi, Dermatology,DEP006,Full-Time,Specialist,8.8,2007-10-12
+PRV00024,Dr. Nora Kelmendi,ENT,DEP001,Full-Time,Specialist ,6.9,2017-08-12
+PRV00025,Dr. Luan Shala ,ONCOLOGY,DEP010,part-time, Resident,3.3,2024-03-12
+PRV00026,Dr. Teuta Krasniqi,Cardiology,DEP011,Part-Time,specialist,7.7,2013-03-18
+PRV00027,Dr. Mira Bytyqi,Surgery,DEP007, Part-Time,Senior Specialist,2.1,2019-03-10
+PRV00028,Dr. Arian Mustafa,RADIOLOGY,DEP007,Contract,Specialist,1.2,2018-05-21
+PRV00029,Dr. Valon Bytyqi,ENT,DEP007,Full-Time,Consultant,9.1,2021-09-22
+PRV00030,Dr. Gent Morina,Emergency Medicine,DEP007,Full-Time,Specialist,4.5,2020-04-24
+PRV00031,Dr. Drita Berisha,Anesthesiology,DEP006,Full-Time,Specialist,10.2,2012-05-23
+PRV00032,Dr. Zana Hoxha,Emergency Medicine,DEP005,FULL-TIME,Consultant,5.5,2014-03-08
+PRV00033,Dr. Arian Bytyqi,Dermatology,DEP010,Full-Time,Senior Specialist,9.0,2007-11-20
+PRV00034,Dr. Teuta Morina,EMERGENCY MEDICINE,DEP009,FULL-TIME,Specialist,18.3,2023-09-07
+PRV00035,Dr. Nora Krasniqi,Emergency Medicine,DEP005,FULL-TIME,Senior Specialist,15.3,2018-02-10
+PRV00036,Dr. Gent Mustafa,Pediatrics,DEP012,PART-TIME,Specialist,8.4,2024-10-01
+PRV00037,Dr. Elira Bytyqi,Neurology,DEP006,FULL-TIME,Specialist,6.2,2015-10-10
+PRV00038,Dr. Mira Hoxha,ANESTHESIOLOGY,DEP010,full-time,Specialist,11.1,2012-06-27
+PRV00039,dr. zana krasniqi, Internal Medicine,DEP006,Full-Time,Specialist,9.4,2022-09-16
+PRV00040,Dr. Valon Gashi,General Practice ,DEP012,Part-Time,Consultant,12.2,2016-02-11
+PRV00041,Dr. Luan Gashi,Orthopedics,DEP011,Full-Time,Senior Specialist,1.5,2020-09-10
+PRV00042,Dr. Valon Bytyqi,Cardiology,DEP001,Full-Time,Senior Specialist,2.9,2020-05-09
+PRV00043,Dr. Arben Shala ,General Practice,DEP001, Full-Time,Senior Specialist,14.1,2018-01-17
+PRV00044,Dr. Zana Berisha,General Practice,DEP010,Full-Time,RESIDENT,10.1,2024-03-23
+PRV00045,Dr. Ilir Krasniqi,Cardiology,DEP010,Full-Time,Senior Specialist,3.4,2013-08-21
+PRV00046,Dr. Valon Shala,Oncology,DEP005,Full-Time,Senior Specialist,9.8,2013-05-17
+PRV00047,Dr. Elira Berisha,Radiology,DEP004,Part-Time,Resident,5.3,2023-08-28
+PRV00048,Dr. Ilir Berisha,Orthopedics,DEP002,Full-Time,Specialist,13.4,2014-01-26
+PRV00049, Dr. Valon Shala,Radiology,DEP004,Full-Time,Resident,3.7,2017-11-16
+PRV00050,Dr. Ilir Kelmendi,general practice,DEP013,Full-Time,Specialist,21.3,2023-08-13
+PRV00051,Dr. Valon Rama,Anesthesiology,DEP006,Full-Time,SPECIALIST,7.2,2023-06-29
+PRV00052,DR. SARA BERISHA,Oncology,DEP005,Full-Time,Specialist,12.0,2012-06-24
+PRV00053,dr. arian berisha,ENT,DEP012,Full-Time,Specialist,11.4,2008-11-21
+PRV00054,Dr. Sara Krasniqi,Anesthesiology,DEP009,FULL-TIME, Specialist,4.3,2007-01-17
+PRV00055,Dr. Gent Morina,Emergency Medicine,DEP003,Full-Time ,Resident,2.1,2017-01-04
+PRV00056,dr. arian kelmendi,Orthopedics,DEP007,FULL-TIME,Senior Specialist,1.2,2019-09-28
+PRV00057,dr. sara krasniqi,Radiology,DEP013,Full-Time,Resident,9.6,2018-07-03
+PRV00058,DR. ZANA MUSTAFA,Emergency Medicine,DEP011,Contract,Senior Specialist,11.4,2017-08-06
+PRV00059,Dr. Zana Hoxha,Surgery,DEP007,Full-Time,consultant,0.7,2023-05-09
+PRV00060,dr. arben shala,Radiology,DEP010,Full-Time,senior specialist,0.4,2018-05-02
+PRV00061,Dr. Blerina Hoxha,Dermatology,DEP009,Full-Time,Resident,0.9,2010-10-06
+PRV00062, Dr. Gent Hoxha,Anesthesiology,DEP003,Full-Time,Senior Specialist,10.7,2009-04-07
+PRV00063,DR. NORA MUSTAFA,ENT,DEP010,Full-Time,Senior Specialist,7.5,2021-07-01
+PRV00064,Dr. Gent Gashi,Internal Medicine,DEP011,Full-Time,Senior Specialist,13.8,2011-05-11
+PRV00065,Dr. Mira Kelmendi,GENERAL PRACTICE,DEP004,full-time,Senior Specialist,6.0,2024-01-25
+PRV00066,dr. luan gashi,Radiology,DEP007,Contract,SENIOR SPECIALIST,8.5,2024-06-02
+PRV00067,Dr. Arian Morina,GENERAL PRACTICE,DEP011,Full-Time,Specialist,9.9,2014-08-29
+PRV00068,Dr. Ilir Mustafa,Radiology ,DEP004,Full-Time,Consultant,3.6,2015-05-02
+PRV00069,Dr. Elira Kelmendi,Cardiology,DEP009,Full-Time,SENIOR SPECIALIST,1.3,2024-08-26
+PRV00070,Dr. Arta Hoxha,anesthesiology,DEP005,Part-Time,Senior Specialist,15.1,2020-11-16
+PRV00071,Dr. Valon Hoxha, Internal Medicine,DEP013,Full-Time,specialist,6.8,2009-08-21
+PRV00072,Dr. Blerina Morina,Internal Medicine,DEP001,Full-Time,Specialist,6.7,2011-03-29
+PRV00073,Dr. Valon Hoxha,Cardiology,DEP002,FULL-TIME,Resident,0.6,2017-05-20
+PRV00074,Dr. Mira Hoxha,cardiology,DEP012,Full-Time,Specialist,3.4,2010-12-06
+PRV00075,DR. ILIR BYTYQI, Dermatology,DEP002,Full-Time,specialist,6.0,2012-09-24
+PRV00076,Dr. Ilir Rama,Dermatology,DEP013,Part-Time,Consultant,13.5,2008-03-30
+PRV00077,Dr. Zana Hoxha,Cardiology,DEP008,Part-Time ,consultant,6.5,2014-12-08
+PRV00078,Dr. Sara Gashi,General Practice,DEP011,Full-Time,Specialist ,11.2,2012-09-23
+PRV00079,Dr. Mira Gashi,Pediatrics,DEP002,Full-Time,Specialist,14.4,2022-09-17
+PRV00080,DR. NORA MUSTAFA,Neurology,DEP001,FULL-TIME,Specialist,16.7,2016-07-21
+PRV00081,Dr. Arta Morina,Radiology,DEP010,Full-Time ,Senior Specialist,16.1,2009-04-21
+PRV00082,Dr. Nora Mustafa,Dermatology,DEP010,Full-Time,consultant,2.7,2015-10-22
+PRV00083,Dr. Sara Kelmendi,Surgery,DEP012,Full-Time,Specialist,0.9,2013-01-19
+PRV00084,Dr. Teuta Hoxha,Emergency Medicine,DEP005,Contract,Senior Specialist,12.6,2020-09-06
+PRV00085,Dr. Elira Gashi,General Practice,DEP002,FULL-TIME,SPECIALIST,8.0,2019-08-21
+PRV00086,Dr. Arta Berisha,pediatrics,DEP011,Part-Time,Specialist,5.4,2022-03-11
+PRV00087,Dr. Sara Hoxha,ENT,DEP013,Full-Time,senior specialist,8.9,2018-09-07
+PRV00088,Dr. Drita Krasniqi,General Practice,DEP005,Contract,Senior Specialist,2.9,2020-02-18
+PRV00089,Dr. Drita Shala ,Oncology,DEP011,Full-Time,specialist,11.4,2020-04-26
+PRV00090,Dr. Mira Morina,Emergency Medicine,DEP011,Part-Time,Consultant,3.1,2014-10-12
+PRV00091,dr. drita mustafa,Emergency Medicine,DEP002,FULL-TIME,Resident,5.4,2012-01-20
+PRV00092,Dr. Arta Kelmendi,ENT,DEP013,Part-Time,Specialist,10.9,2022-12-26
+PRV00093,Dr. Drita Gashi,Anesthesiology,DEP011,Full-Time,Specialist,16.6,2014-03-22
+PRV00094,DR. TEUTA MUSTAFA,GENERAL PRACTICE,DEP004,FULL-TIME,Consultant,22.5,2014-04-02
+PRV00095, Dr. Mira Mustafa,Radiology,DEP013,FULL-TIME,Senior Specialist,24.5,2009-01-29
+PRV00096,DR. DRITA KRASNIQI,orthopedics,DEP003,Contract,specialist,20.1,2015-08-08
+PRV00097,Dr. Valon Kelmendi,General Practice,DEP013,Full-Time,Specialist,16.3,2017-05-12
+PRV00098,Dr. Ilir Morina,Surgery,DEP013,Part-Time,Senior Specialist,4.2,2014-04-04
+PRV00099,Dr. Elira Morina,Neurology,DEP012,Part-Time,SENIOR SPECIALIST,6.8,2011-10-11
+PRV00100,Dr. Mira Krasniqi,Pediatrics,DEP013, Full-Time,Senior Specialist,15.6,2021-09-11
+PRV00101,Dr. Gent Rama,cardiology,DEP002,Full-Time,Specialist,9.8,2014-03-20
+PRV00102,Dr. Luan Shala,Radiology,DEP007,full-time,Senior Specialist,6.6,2008-03-28
+PRV00103,DR. ZANA MUSTAFA,NEUROLOGY,DEP012,FULL-TIME,Specialist,1.3,2019-03-15
+PRV00104,Dr. Mira Hoxha,Emergency Medicine,DEP007,CONTRACT,Specialist,2.2,2015-09-28
+PRV00105,Dr. Sara Bytyqi,Orthopedics ,DEP013,FULL-TIME, Consultant,17.3,2022-09-19
+PRV00106,Dr. Teuta Shala,Cardiology,DEP002,Full-Time ,Specialist,10.2,2009-09-06
+PRV00107,Dr. Arian Kelmendi,ENT,DEP002,Full-Time,Specialist,10.8,2017-10-25
+PRV00108,Dr. Arian Gashi,Internal Medicine,DEP009,full-time,Consultant,4.9,2023-01-10
+PRV00109,Dr. Nora Berisha,Oncology,DEP001,full-time, Resident,10.3,2022-01-27
+PRV00110,Dr. Elira Morina,Internal Medicine ,DEP004,Full-Time,Specialist,6.3,2018-07-21
+PRV00111,Dr. Arian Berisha,Internal Medicine,DEP004,Part-Time,CONSULTANT,3.1,2020-08-19
+PRV00112,Dr. Ilir Kelmendi,Emergency Medicine,DEP006,Full-Time,Resident,22.7,2022-01-20
+PRV00113,Dr. Zana Shala ,ENT,DEP010,Part-Time,Senior Specialist ,13.6,2008-10-05
+PRV00114,Dr. Arian Gashi,Surgery ,DEP007,Contract,Specialist,9.0,2007-09-26
+PRV00115,DR. ILIR RAMA,Dermatology,DEP011,PART-TIME,Senior Specialist,4.8,2008-08-20
+PRV00116,Dr. Zana Mustafa,Cardiology,DEP013, Full-Time,Specialist,11.1,2011-07-19
+PRV00117,Dr. Arben Kelmendi ,ENT,DEP010,full-time,Specialist,9.7,2007-06-20
+PRV00118,Dr. Teuta Rama,Orthopedics ,DEP003,Full-Time,resident,3.5,2024-08-16
+PRV00119,DR. ELIRA GASHI,Internal Medicine,DEP012,Full-Time,Resident,4.5,2024-04-01
+PRV00120,Dr. Arian Mustafa ,emergency medicine,DEP013,full-time,Senior Specialist,24.3,2018-04-29
+PRV00121,Dr. Blerina Rama,Neurology,DEP007,Full-Time,Specialist,19.2,2008-11-19
+PRV00122,Dr. Zana Krasniqi,Emergency Medicine,DEP002,Full-Time,Specialist,4.5,2023-02-13
+PRV00123,Dr. Sara Berisha,Dermatology ,DEP013,Full-Time,Senior Specialist,8.5,2021-10-24
+PRV00124,Dr. Ilir Gashi,Pediatrics,DEP003,Full-Time,Specialist,7.7,2021-03-27
+PRV00125,Dr. Arta Shala ,Surgery,DEP008,Full-Time,Specialist,9.2,2013-04-21
+PRV00126,Dr. Mira Hoxha ,EMERGENCY MEDICINE,DEP005,Part-Time,Resident,3.1,2023-12-06
+PRV00127,Dr. Arben Bytyqi,surgery,DEP003,Full-Time,Resident,14.1,2011-04-29
+PRV00128,Dr. Ilir Rama,orthopedics,DEP004,Part-Time,Specialist,2.3,2021-01-18
+PRV00129,Dr. Zana Shala,Oncology,DEP001,Full-Time,Specialist,4.1,2010-06-05
+PRV00130,Dr. Valon Rama,general practice,DEP002,Full-Time,specialist,20.0,2020-08-14
+PRV00131,DR. NORA GASHI,Radiology,DEP007,Full-Time,SPECIALIST,10.8,2016-07-23
+PRV00132,Dr. Teuta Krasniqi,Neurology,DEP007,full-time,Senior Specialist,5.3,2018-07-03
+PRV00133,Dr. Mira Mustafa,General Practice,DEP007,Full-Time,SENIOR SPECIALIST,4.8,2013-09-07
+PRV00134,Dr. Drita Shala,Cardiology,DEP005,Part-Time,Specialist ,4.7,2011-03-12
+PRV00135,dr. zana mustafa,General Practice,DEP005,Full-Time,Senior Specialist,13.2,2018-10-28
+PRV00136, Dr. Teuta Bytyqi,ENT,DEP003,Full-Time,consultant,6.9,2008-07-30
+PRV00137, Dr. Teuta Mustafa, Pediatrics,DEP002,Part-Time,RESIDENT,8.7,2020-05-09
+PRV00138,Dr. Nora Morina,CARDIOLOGY,DEP013,Full-Time, Specialist,2.1,2014-09-27
+PRV00139,Dr. Arta Krasniqi,Anesthesiology,DEP008,Full-Time,Specialist,3.1,2017-12-29
+PRV00140,Dr. Arben Berisha,ent,DEP008,Full-Time,Specialist,15.2,2020-06-06
+PRV00141,Dr. Mira Berisha,Pediatrics,DEP006,Part-Time,Senior Specialist,7.8,2021-05-14
+PRV00142,Dr. Blerina Shala,Orthopedics,DEP009,FULL-TIME,Specialist,12.4,2012-10-19
+PRV00143,Dr. Valon Kelmendi,pediatrics,DEP006,Full-Time,Consultant,16.1,2018-05-17
+PRV00144,Dr. Nora Berisha,Surgery,DEP008,Full-Time,SPECIALIST,6.8,2009-11-05
+PRV00145,Dr. Zana Berisha,orthopedics,DEP003,full-time,Specialist,5.4,2007-02-12
+PRV00146,Dr. Zana Kelmendi ,cardiology,DEP002,FULL-TIME,Specialist,4.7,2022-06-26
+PRV00147,Dr. Nora Morina,Cardiology,DEP002,FULL-TIME,Senior Specialist,5.5,2009-05-17
+PRV00148,Dr. Drita Berisha,Emergency Medicine,DEP012,PART-TIME,Senior Specialist,5.7,2008-12-03
+PRV00149,Dr. Arben Gashi,Dermatology,DEP009,Full-Time,consultant,5.7,2015-07-17
+PRV00150,Dr. Elira Rama,Emergency Medicine,DEP006,Full-Time,Specialist ,9.9,2008-12-28
+PRV00151,Dr. Teuta Gashi,Cardiology,DEP007,Part-Time,Specialist ,6.0,2023-08-12
+PRV00152,DR. ARTA MUSTAFA,PEDIATRICS,DEP007,Part-Time,Specialist,22.2,2016-06-01
+PRV00153,Dr. Teuta Bytyqi,ENT,DEP007,Full-Time,Specialist,9.6,2016-05-13
+PRV00154,Dr. Teuta Krasniqi,dermatology,DEP013,Full-Time,SENIOR SPECIALIST,3.6,2012-05-01
+PRV00155, Dr. Elira Rama,Oncology,DEP011,Part-Time ,Senior Specialist,0.9,2011-08-25
+PRV00156,DR. NORA BERISHA,general practice,DEP012,Full-Time,Resident,8.0,2015-11-11
+PRV00157,Dr. Ilir Morina,Dermatology,DEP004,Full-Time ,Specialist,6.6,2020-04-11
+PRV00158,Dr. Valon Mustafa,Emergency Medicine,DEP004,Full-Time,Specialist,0.8,2015-07-12
+PRV00159,Dr. Luan Gashi,Anesthesiology,DEP004,Full-Time,Specialist ,10.0,2014-07-09
+PRV00160,Dr. Ilir Mustafa,Internal Medicine,DEP005,Part-Time,Specialist,9.6,2008-01-25
+PRV00161,Dr. Teuta Hoxha,Neurology,DEP007,Full-Time,Specialist,6.6,2010-08-21
+PRV00162,Dr. Sara Mustafa,Internal Medicine,DEP009,Full-Time,specialist,4.0,2015-05-18
+PRV00163,Dr. Arian Bytyqi,Anesthesiology,DEP010,CONTRACT,Senior Specialist ,9.0,2022-01-01
+PRV00164,Dr. Teuta Rama,Neurology,DEP012,Full-Time,Resident,10.8,2023-08-08
+PRV00165,DR. GENT KELMENDI,ONCOLOGY,DEP003,FULL-TIME,Specialist,18.0,2016-09-28
+PRV00166,Dr. Sara Gashi,Internal Medicine,DEP012,Full-Time,Specialist,11.6,2017-12-29
+PRV00167,Dr. Valon Berisha,Surgery,DEP009,Part-Time,Consultant,18.0,2010-07-13
+PRV00168,DR. NORA BYTYQI,Internal Medicine ,DEP002,Full-Time,Specialist,8.1,2019-03-18
+PRV00169,Dr. Mira Kelmendi,Internal Medicine,DEP002,Full-Time,Specialist,6.6,2022-06-08
+PRV00170,DR. ELIRA RAMA,Dermatology,DEP013,Full-Time,Consultant,16.8,2024-05-02
+PRV00171,Dr. Gent Rama,Oncology,DEP012,Part-Time,Specialist,1.6,2015-05-22
+PRV00172,Dr. Nora Berisha,Radiology,DEP013,Contract,Resident,8.1,2018-11-25
+PRV00173,Dr. Arian Mustafa,Cardiology,DEP005,Part-Time,Consultant,10.9,2010-05-07
+PRV00174,Dr. Arian Shala,Internal Medicine ,DEP007,Full-Time,Consultant,15.4,2021-02-06
+PRV00175,Dr. Valon Berisha,Pediatrics,DEP008,Full-Time,Resident,5.1,2007-09-04
+PRV00176,Dr. Ilir Gashi,Surgery,DEP007,Full-Time,Specialist,8.7,2017-12-12
+PRV00177,dr. arian krasniqi,Internal Medicine,DEP013,full-time,Specialist,1.5,2020-01-15
+PRV00178,Dr. Luan Krasniqi,Anesthesiology,DEP011,Full-Time,Resident,3.2,2021-10-02
+PRV00179,Dr. Mira Bytyqi,Dermatology,DEP006, Part-Time,resident,0.8,2018-10-01
+PRV00180,Dr. Blerina Mustafa ,Orthopedics,DEP006,Full-Time,senior specialist,3.8,2019-12-14
+PRV00181,Dr. Arian Kelmendi,Neurology,DEP005,Part-Time,CONSULTANT,1.4,2010-11-06
+PRV00182,Dr. Ilir Morina,INTERNAL MEDICINE,DEP007,Full-Time,Senior Specialist,5.4,2022-09-26
+PRV00183,Dr. Arian Hoxha,General Practice,DEP003,Part-Time,Senior Specialist,6.6,2022-09-18
+PRV00184,Dr. Valon Kelmendi,Internal Medicine,DEP011,Full-Time,Specialist,3.3,2008-03-27
+PRV00185,DR. SARA MORINA,Dermatology,DEP012,Full-Time ,Consultant,7.7,2009-05-26
+PRV00186,Dr. Zana Mustafa,ORTHOPEDICS,DEP008,FULL-TIME,Resident,6.9,2019-01-28
+PRV00187,Dr. Arian Berisha,ENT,DEP009,FULL-TIME,Senior Specialist,10.7,2007-07-28
+PRV00188,Dr. Mira Mustafa,Oncology,DEP002,FULL-TIME,Specialist,6.7,2023-01-03
+PRV00189,DR. DRITA SHALA,emergency medicine,DEP007,Part-Time,Resident,22.7,2012-12-07
+PRV00190,dr. ilir gashi,Surgery,DEP004,Full-Time,specialist,22.3,2017-02-25
+PRV00191, Dr. Gent Bytyqi,radiology,DEP009,Contract,Consultant,6.0,2024-09-11
+PRV00192,Dr. Zana Gashi,Orthopedics,DEP011,Full-Time,Specialist,6.6,2016-11-19
+PRV00193,Dr. Arben Hoxha,Cardiology,DEP004,Full-Time,specialist,14.2,2022-06-12
+PRV00194,Dr. Teuta Mustafa,Dermatology,DEP004,Full-Time,Specialist,4.4,2007-02-17
+PRV00195,Dr. Teuta Hoxha, Pediatrics,DEP006,Full-Time,Specialist,9.4,2017-06-21
+PRV00196,dr. arta morina,Emergency Medicine,DEP007,FULL-TIME,Consultant,1.2,2011-09-06
+PRV00197,Dr. Nora Rama,Radiology,DEP001,FULL-TIME,Specialist,6.0,2022-07-15
+PRV00198,DR. LUAN GASHI,Neurology,DEP011,Full-Time,Specialist,4.2,2017-11-11
+PRV00199,Dr. Nora Mustafa ,Neurology ,DEP013,Full-Time,RESIDENT,5.5,2008-02-02
+PRV00200,Dr. Valon Rama,anesthesiology,DEP004,CONTRACT,Specialist ,2.3,2022-08-06
+PRV00201,DR. MIRA KELMENDI,Anesthesiology ,DEP003,Contract, Resident,1.4,2015-06-09
+PRV00202,Dr. Arben Kelmendi,General Practice,DEP010,Full-Time,Consultant,10.0,2014-05-13
+PRV00203,Dr. Arben Mustafa,ENT,DEP009,Full-Time,SENIOR SPECIALIST,8.5,2024-08-21
+PRV00204,Dr. Teuta Berisha,Neurology,DEP002,Full-Time,Specialist,7.3,2007-02-24
+PRV00205,dr. arian morina,EMERGENCY MEDICINE,DEP008,PART-TIME,Resident,11.7,2007-12-23
+PRV00206,Dr. Zana Kelmendi,Emergency Medicine,DEP003,Full-Time,RESIDENT,6.0,2020-06-11
+PRV00207,Dr. Mira Krasniqi,pediatrics,DEP010,Full-Time,Specialist,13.4,2013-04-24
+PRV00208,Dr. Mira Berisha,Anesthesiology,DEP013,Contract,Specialist,7.9,2014-09-18
+PRV00209,Dr. Luan Kelmendi,General Practice,DEP007,Full-Time,Consultant,1.5,2020-01-16
+PRV00210,Dr. Teuta Morina ,Dermatology,DEP006,full-time,resident,5.9,2024-10-23
+PRV00211,Dr. Teuta Shala,dermatology,DEP012,FULL-TIME,Resident,5.2,2019-05-11
+PRV00212,Dr. Arian Krasniqi,Pediatrics,DEP008,Full-Time,Resident,6.8,2007-10-13
+PRV00213,Dr. Sara Morina,EMERGENCY MEDICINE,DEP008,Full-Time,specialist,5.4,2013-05-28
+PRV00214,Dr. Mira Gashi,radiology,DEP013,Full-Time,Senior Specialist,3.0,2010-03-20
+PRV00215,Dr. Arta Bytyqi,CARDIOLOGY,DEP012,Part-Time,Specialist,11.0,2007-05-17
+PRV00216,Dr. Blerina Berisha , Emergency Medicine,DEP013,PART-TIME,Specialist,8.0,2013-08-09
+PRV00217,Dr. Teuta Mustafa,oncology,DEP003,Part-Time,Consultant,2.8,2020-01-23
+PRV00218,Dr. Luan Mustafa,Cardiology ,DEP013,Full-Time,SPECIALIST,2.9,2024-09-26
+PRV00219, Dr. Mira Krasniqi,ENT,DEP012,Full-Time,Specialist,6.8,2020-03-17
+PRV00220,Dr. Teuta Krasniqi,Dermatology,DEP013,Full-Time,Senior Specialist,4.3,2021-08-27
+PRV00221,Dr. Gent Morina,Radiology,DEP007,CONTRACT,SENIOR SPECIALIST,7.6,2013-10-30
+PRV00222,Dr. Ilir Kelmendi,Radiology,DEP004,CONTRACT,Senior Specialist ,5.5,2024-10-16
+PRV00223,DR. MIRA MUSTAFA,General Practice,DEP008,Full-Time,Specialist ,2.5,2022-01-24
+PRV00224,Dr. Mira Kelmendi,Internal Medicine,DEP010,full-time,Specialist,10.1,2010-05-24
+PRV00225,Dr. Mira Bytyqi,Radiology,DEP011,Full-Time,Specialist ,15.0,2014-05-04
+PRV00226,Dr. Blerina Kelmendi,oncology,DEP003,Part-Time,Senior Specialist,7.0,2008-12-14
+PRV00227,Dr. Elira Morina,EMERGENCY MEDICINE,DEP005,Full-Time,Senior Specialist,4.2,2018-11-25
+PRV00228,dr. arben berisha,Dermatology,DEP003,Full-Time,Specialist,2.8,2019-10-02
+PRV00229,Dr. Zana Shala,Pediatrics,DEP005,contract,Consultant,13.9,2010-12-29
+PRV00230,DR. GENT GASHI,Anesthesiology ,DEP005,Full-Time,Specialist,2.3,2011-02-06
+PRV00231,Dr. Drita Krasniqi,internal medicine,DEP001,Full-Time,Senior Specialist,14.4,2014-03-16
+PRV00232,Dr. Arian Mustafa,Cardiology ,DEP006,PART-TIME,SENIOR SPECIALIST,8.1,2007-02-05
+PRV00233,Dr. Elira Bytyqi,ANESTHESIOLOGY,DEP011,Full-Time,Specialist,6.9,2014-02-22
+PRV00234,dr. teuta mustafa,Pediatrics,DEP003,Full-Time,Specialist,2.1,2022-03-23
+PRV00235,Dr. Arta Krasniqi,Radiology,DEP004,FULL-TIME,Specialist,2.6,2013-09-18
+PRV00236,dr. mira mustafa,Surgery,DEP013,full-time,SENIOR SPECIALIST,3.8,2021-10-24
+PRV00237,Dr. Drita Kelmendi,Cardiology,DEP007,Full-Time,Specialist,35.0,2013-03-12
+PRV00238,Dr. Drita Hoxha,Emergency Medicine,DEP008, Full-Time,SENIOR SPECIALIST,16.5,2014-01-29
+PRV00239,dr. zana shala,Orthopedics,DEP010,Full-Time,Specialist,6.7,2007-09-20
+PRV00240,DR. DRITA KELMENDI,Neurology,DEP001,Part-Time,Specialist,9.7,2007-02-04
+PRV00241,Dr. Mira Bytyqi,Cardiology,DEP004,Full-Time,consultant,1.4,2019-01-21
+PRV00242,Dr. Teuta Berisha,Neurology,DEP006,Part-Time,Specialist,2.8,2013-06-28
+PRV00243,Dr. Mira Shala,Anesthesiology,DEP006,Full-Time,Specialist,15.3,2021-09-11
+PRV00244,Dr. Teuta Hoxha,Orthopedics,DEP009,Full-Time,Specialist,16.7,2018-12-21
+PRV00245,Dr. Valon Gashi,GENERAL PRACTICE,DEP005,Full-Time,Specialist,7.9,2011-09-04
+PRV00246,Dr. Blerina Morina, ENT,DEP013,Full-Time,consultant,7.8,2023-12-23
+PRV00247,Dr. Sara Rama,Surgery,DEP009,Full-Time,SENIOR SPECIALIST,10.0,2013-11-09
+PRV00248,Dr. Nora Krasniqi ,Anesthesiology,DEP006,Full-Time,Senior Specialist,9.4,2013-01-13
+PRV00249,Dr. Sara Hoxha ,Surgery,DEP009,Full-Time,Specialist,10.4,2023-09-29
+PRV00250,Dr. Mira Hoxha,Orthopedics,DEP010,Full-Time ,Senior Specialist,5.2,2017-02-23
+PRV00251,Dr. Arben Hoxha,Radiology,DEP006,Part-Time, Senior Specialist,4.6,2021-12-17
+PRV00252,Dr. Arian Shala,GENERAL PRACTICE,DEP006,Full-Time,Specialist,1.5,2022-01-21
+PRV00253,Dr. Gent Gashi ,Surgery,DEP004,Full-Time,Senior Specialist,3.2,2012-08-01
+PRV00254,Dr. Elira Rama, Neurology,DEP012,Part-Time,Specialist,2.8,2016-07-31
+PRV00255,Dr. Gent Hoxha,Orthopedics,DEP013,Full-Time,Consultant,5.8,2011-09-12
+PRV00256,Dr. Drita Bytyqi,Internal Medicine,DEP008,Full-Time,Specialist ,12.2,2011-01-24
+PRV00257,DR. MIRA KELMENDI,Neurology,DEP009,Full-Time ,Senior Specialist,8.2,2012-08-25
+PRV00258,Dr. Gent Kelmendi,Radiology,DEP009,Full-Time,Consultant,8.3,2009-03-07
+PRV00259,Dr. Blerina Mustafa,Oncology,DEP012,FULL-TIME,Senior Specialist,13.9,2023-04-20
+PRV00260,Dr. Sara Bytyqi,Cardiology,DEP002,FULL-TIME,Senior Specialist,16.6,2022-07-09
+PRV00261,Dr. Nora Hoxha,general practice,DEP002,Full-Time,Senior Specialist,13.6,2021-08-20
+PRV00262,dr. sara kelmendi,Surgery,DEP009,Full-Time,CONSULTANT,10.9,2021-05-05
+PRV00263,Dr. Mira Kelmendi,Dermatology,DEP006,Full-Time,Specialist,12.8,2023-09-27
+PRV00264,Dr. Arian Morina,ENT,DEP003,Contract,SENIOR SPECIALIST,3.5,2011-02-27
+PRV00265,Dr. Arta Gashi,Anesthesiology,DEP002,Full-Time,Specialist ,1.4,2009-03-25
+PRV00266,Dr. Gent Berisha,Oncology,DEP004,Full-Time, Senior Specialist,2.7,2016-08-06
+PRV00267,Dr. Sara Berisha,Neurology ,DEP011,Contract,Resident,8.6,2017-10-24
+PRV00268,dr. valon rama,ENT ,DEP010,Full-Time,Senior Specialist,13.5,2017-01-16
+PRV00269,Dr. Gent Shala,Neurology,DEP009,Contract,Senior Specialist,4.8,2023-03-19
+PRV00270,Dr. Nora Mustafa,Emergency Medicine,DEP003,Full-Time,Consultant,9.4,2020-01-04
+PRV00271,Dr. Mira Bytyqi,Cardiology,DEP003,FULL-TIME,Resident,16.7,2012-06-30
+PRV00272,Dr. Elira Shala,Pediatrics,DEP001,Contract,Specialist,7.4,2018-03-04
+PRV00273,Dr. Teuta Morina,Orthopedics,DEP001,Full-Time,Consultant,7.6,2011-09-14
+PRV00274,Dr. Nora Morina,General Practice,DEP009,Full-Time,SPECIALIST,4.2,2023-10-23
+PRV00275,Dr. Zana Mustafa,Emergency Medicine,DEP003,Full-Time,Senior Specialist,8.8,2012-02-21
+PRV00276,Dr. Arian Berisha,Oncology,DEP001,Part-Time,Senior Specialist,1.2,2020-04-29
+PRV00277,Dr. Mira Shala ,Radiology,DEP008,Full-Time,Senior Specialist,4.1,2018-01-30
+PRV00278,Dr. Sara Gashi ,General Practice,DEP002,Full-Time,Senior Specialist,3.9,2020-04-04
+PRV00279,Dr. Nora Gashi,Dermatology,DEP010,FULL-TIME,Specialist,8.2,2009-06-03
+PRV00280,Dr. Teuta Berisha,Surgery,DEP004,Full-Time,resident,13.3,2021-10-11
+PRV00281,Dr. Nora Krasniqi,Anesthesiology,DEP011,Full-Time,Specialist,4.6,2023-03-24
+PRV00282,Dr. Arian Shala,Surgery,DEP010,Part-Time,Specialist ,5.1,2009-09-10
+PRV00283,DR. MIRA KELMENDI, Anesthesiology,DEP001,Full-Time,Senior Specialist,2.4,2024-10-11
+PRV00284,Dr. Nora Kelmendi,Orthopedics,DEP005,Part-Time,Specialist,12.2,2012-10-21
+PRV00285,DR. ARBEN MORINA,Oncology,DEP012, Full-Time,Resident,7.5,2024-02-11
+PRV00286,Dr. Sara Berisha,Orthopedics,DEP006,Full-Time,Resident,1.1,2009-01-26
+PRV00287,Dr. Blerina Morina,Anesthesiology,DEP001,Full-Time,Resident,8.2,2012-11-03
+PRV00288,Dr. Arta Mustafa ,Internal Medicine,DEP012,full-time,Consultant,5.9,2017-03-26
+PRV00289,dr. arta gashi,Pediatrics,DEP003,Full-Time,Senior Specialist,2.5,2020-04-24
+PRV00290,Dr. Arben Morina,Anesthesiology ,DEP009,Full-Time,Senior Specialist,17.8,2024-10-06
+PRV00291,DR. ILIR KRASNIQI,Surgery,DEP005,FULL-TIME,Specialist,0.5,2023-07-06
+PRV00292,DR. NORA HOXHA,Internal Medicine,DEP009,Full-Time,RESIDENT,14.3,2020-10-07
+PRV00293,Dr. Elira Morina,Anesthesiology,DEP009,Full-Time,Senior Specialist,12.8,2017-02-01
+PRV00294,Dr. Arian Krasniqi,ENT,DEP004,Full-Time,Specialist,12.1,2022-01-07
+PRV00295,Dr. Ilir Shala,DERMATOLOGY,DEP005,PART-TIME,Specialist,3.2,2019-09-30
+PRV00296,Dr. Gent Bytyqi,Neurology ,DEP009,Full-Time ,Consultant,14.4,2019-07-04
+PRV00297,Dr. Gent Bytyqi,Radiology,DEP009,Full-Time,SENIOR SPECIALIST,0.6,2010-03-28
+PRV00298,Dr. Elira Shala,ENT,DEP005,PART-TIME,Senior Specialist,4.2,2009-09-26
+PRV00299,Dr. Mira Bytyqi,Pediatrics,DEP003,Full-Time,Specialist,12.7,2017-04-04
+PRV00300,Dr. Mira Bytyqi,Emergency Medicine,DEP002,Part-Time,Specialist,0.4,2008-08-08
+PRV00301,Dr. Zana Berisha,Cardiology,DEP011,Full-Time,SPECIALIST,1.4,2011-10-27
+PRV00302,Dr. Luan Morina, Cardiology,DEP011,Full-Time,Senior Specialist ,15.5,2021-12-10
+PRV00303,Dr. Drita Bytyqi,Neurology,DEP010,Full-Time,Senior Specialist,22.5,2012-07-13
+PRV00304,Dr. Valon Gashi,Dermatology,DEP001,Full-Time,Specialist,9.3,2022-03-05
+PRV00305,Dr. Luan Krasniqi,General Practice,DEP009,part-time,Senior Specialist,12.0,2011-03-26
+PRV00306,Dr. Drita Bytyqi,Neurology ,DEP009,FULL-TIME,Resident,4.8,2023-10-22
+PRV00307,Dr. Arian Hoxha,Pediatrics,DEP003,Full-Time,Specialist,2.4,2020-02-18
+PRV00308,Dr. Sara Mustafa,Cardiology,DEP007,Full-Time ,Senior Specialist,8.6,2007-12-14
+PRV00309,Dr. Gent Berisha,Orthopedics,DEP001,Full-Time,Specialist,13.6,2009-01-14
+PRV00310,Dr. Arta Mustafa,ONCOLOGY,DEP002,Contract ,Specialist,6.4,2019-08-10
+PRV00311,Dr. Blerina Shala,Neurology,DEP012,Part-Time,Consultant,3.3,2019-11-09
+PRV00312,Dr. Arian Mustafa,Radiology ,DEP004,Full-Time,Consultant,22.6,2021-06-18
+PRV00313,Dr. Sara Berisha,Pediatrics,DEP007,FULL-TIME,specialist,2.4,2013-05-29
+PRV00314,Dr. Nora Krasniqi,Radiology,DEP013,Part-Time,Consultant,5.2,2024-09-11
+PRV00315,Dr. Elira Kelmendi,INTERNAL MEDICINE,DEP004,Part-Time,Senior Specialist,4.2,2007-12-04
+PRV00316,Dr. Ilir Hoxha ,internal medicine,DEP004,Part-Time,Specialist,0.9,2008-02-27
+PRV00317,dr. gent morina,Neurology,DEP004, Full-Time,Specialist,8.7,2020-11-07
+PRV00318,dr. zana krasniqi,Orthopedics,DEP002, Full-Time,Specialist,4.9,2007-05-20
+PRV00319,Dr. Blerina Bytyqi,General Practice,DEP002,Contract,Specialist,2.2,2010-12-09
+PRV00320,DR. ELIRA KELMENDI,ENT,DEP008,Contract,SENIOR SPECIALIST,2.4,2013-07-18
+PRV00321,Dr. Elira Berisha,Orthopedics,DEP012,full-time,CONSULTANT,17.4,2022-07-25
+PRV00322,Dr. Nora Berisha,PEDIATRICS,DEP006,Full-Time,Senior Specialist,13.2,2012-02-17
+PRV00323,Dr. Sara Berisha,Anesthesiology,DEP011,FULL-TIME,Specialist,10.0,2019-05-14
+PRV00324,Dr. Gent Morina,Neurology,DEP004,Full-Time,Senior Specialist,2.5,2009-09-04
+PRV00325,Dr. Teuta Rama,Internal Medicine ,DEP001,Full-Time,Consultant,28.9,2009-05-26
+PRV00326,Dr. Luan Krasniqi,Pediatrics,DEP005,Part-Time,SENIOR SPECIALIST,5.6,2022-12-08
+PRV00327,DR. ELIRA BERISHA,neurology,DEP002,Full-Time,SENIOR SPECIALIST,11.7,2010-07-30
+PRV00328,Dr. Arben Berisha,Surgery,DEP005,Contract,Consultant,2.7,2014-07-13
+PRV00329,dr. nora berisha,Cardiology,DEP011,Full-Time,Consultant,7.4,2021-06-05
+PRV00330,Dr. Ilir Mustafa,General Practice,DEP011,Full-Time,Resident,20.4,2013-07-11
+PRV00331,Dr. Gent Krasniqi,Radiology,DEP006,Full-Time,consultant,15.4,2007-12-06
+PRV00332,Dr. Ilir Kelmendi,General Practice,DEP006,Full-Time,Consultant,1.9,2021-08-23
+PRV00333,DR. DRITA KELMENDI,Oncology,DEP002,Full-Time,Specialist,0.2,2024-12-08
+PRV00334,Dr. Arben Berisha,Surgery,DEP009,Full-Time,Specialist,13.0,2008-10-24
+PRV00335,Dr. Zana Morina,Anesthesiology,DEP002,Full-Time,Resident ,7.5,2016-04-25
+PRV00336,Dr. Nora Hoxha,RADIOLOGY,DEP011,Part-Time,Senior Specialist,4.7,2007-04-13
+PRV00337,Dr. Ilir Shala,Anesthesiology,DEP002,Contract,Senior Specialist,12.2,2022-05-21
+PRV00338,Dr. Elira Morina,Surgery,DEP003,Full-Time,Senior Specialist,22.1,2024-04-04
+PRV00339,Dr. Luan Kelmendi,Oncology ,DEP008,Full-Time,Consultant,4.5,2024-08-16
+PRV00340, Dr. Arian Krasniqi,ENT,DEP011,Full-Time,Senior Specialist,10.0,2022-01-14
+PRV00341,dr. zana krasniqi,ENT ,DEP009,Full-Time,Consultant,5.3,2007-09-24
+PRV00342,Dr. Gent Morina,Oncology,DEP010,Contract,SPECIALIST,8.6,2020-10-26
+PRV00343,Dr. Gent Gashi,Radiology,DEP003,Contract ,Senior Specialist,13.5,2007-12-07
+PRV00344,Dr. Arta Shala,Neurology,DEP003,Contract,senior specialist,8.6,2017-02-08
+PRV00345,Dr. Nora Mustafa,DERMATOLOGY,DEP004,Full-Time,CONSULTANT,7.3,2013-03-31
+PRV00346,Dr. Ilir Mustafa,Oncology,DEP003,Contract,Consultant,13.5,2021-01-15
+PRV00347,Dr. Blerina Mustafa,Anesthesiology,DEP005,Full-Time,SPECIALIST,5.1,2024-04-28
+PRV00348,Dr. Gent Gashi,ENT,DEP004,FULL-TIME,Resident,3.7,2021-03-31
+PRV00349,Dr. Nora Mustafa,Orthopedics,DEP007,Full-Time,Resident,17.0,2010-01-26
+PRV00350,Dr. Blerina Shala,Orthopedics,DEP006,Full-Time,Senior Specialist,4.7,2009-12-19
+PRV00351,Dr. Blerina Bytyqi,Dermatology,DEP012,Full-Time,Specialist,7.8,2018-05-19
+PRV00352,Dr. Arben Rama,Orthopedics,DEP011,Full-Time,Resident,5.2,2009-07-31
+PRV00353,Dr. Arben Bytyqi,General Practice,DEP011,Full-Time,Resident,4.2,2021-01-08
+PRV00354,Dr. Mira Bytyqi,Internal Medicine,DEP001,Part-Time,Consultant ,2.5,2024-06-05
+PRV00355,Dr. Zana Hoxha,pediatrics,DEP012,Contract,Resident,9.2,2021-05-21
+PRV00356,Dr. Valon Berisha,Orthopedics,DEP001,Full-Time,Resident,5.4,2019-03-23
+PRV00357,Dr. Teuta Gashi,Cardiology,DEP001,Full-Time ,Specialist,18.3,2014-04-14
+PRV00358,Dr. Valon Bytyqi,General Practice,DEP012,Full-Time,specialist,11.2,2023-06-01
+PRV00359,Dr. Arben Shala,DERMATOLOGY,DEP007,Full-Time,Specialist,6.1,2021-10-17
+PRV00360,Dr. Nora Berisha,CARDIOLOGY,DEP011,Part-Time,Senior Specialist,9.3,2022-06-25
+PRV00361,Dr. Sara Gashi,Anesthesiology,DEP002,Full-Time,Consultant,7.7,2010-11-28
+PRV00362,dr. nora kelmendi,Orthopedics,DEP013,PART-TIME,specialist,10.7,2014-02-16
+PRV00363,DR. ELIRA RAMA,Neurology ,DEP003,Contract,Specialist,1.7,2017-12-16
+PRV00364,Dr. Nora Berisha,ENT,DEP008,Full-Time ,Specialist,10.7,2014-02-11
+PRV00365,Dr. Arben Berisha,Surgery ,DEP003,Full-Time,Resident,4.5,2023-02-26
+PRV00366,Dr. Gent Mustafa,DERMATOLOGY,DEP002,Full-Time,Senior Specialist,6.7,2019-04-12
+PRV00367,Dr. Sara Krasniqi,Radiology,DEP008,Full-Time,Consultant,4.1,2008-04-19
+PRV00368,dr. elira krasniqi,Oncology,DEP012,Part-Time,Resident,14.0,2008-06-26
+PRV00369,Dr. Luan Shala,Cardiology,DEP006,Part-Time,senior specialist,7.5,2023-09-15
+PRV00370, Dr. Arian Shala,Internal Medicine,DEP008,Part-Time,Senior Specialist,2.1,2020-04-11
+PRV00371,Dr. Nora Mustafa ,General Practice,DEP001,Full-Time,Resident,10.6,2015-02-21
+PRV00372,Dr. Teuta Krasniqi,Oncology,DEP007,part-time,senior specialist,6.9,2015-07-07
+PRV00373,Dr. Gent Hoxha,Surgery,DEP004,Full-Time,SENIOR SPECIALIST,5.4,2017-05-19
+PRV00374,Dr. Teuta Shala,Cardiology,DEP011,Full-Time,Consultant,8.4,2024-06-17
+PRV00375,Dr. Arta Rama,anesthesiology,DEP005,Full-Time,Specialist,5.9,2022-12-04
+PRV00376,Dr. Ilir Gashi,Surgery,DEP013,FULL-TIME,Specialist,6.9,2021-01-25
+PRV00377,Dr. Arta Krasniqi,ent,DEP008,full-time,Senior Specialist,7.3,2015-12-03
+PRV00378,Dr. Mira Rama,SURGERY,DEP003,Full-Time,Resident,9.6,2020-11-18
+PRV00379,Dr. Valon Mustafa,pediatrics,DEP007,Full-Time,Specialist,4.6,2020-07-25
+PRV00380,Dr. Blerina Rama,ONCOLOGY,DEP008,Full-Time,SENIOR SPECIALIST,3.0,2012-03-28
+PRV00381,Dr. Arben Rama,Anesthesiology,DEP002,Part-Time,Consultant,12.8,2017-05-01
+PRV00382,Dr. Elira Morina,Pediatrics,DEP012,Full-Time,Specialist,12.8,2009-02-28
+PRV00383,Dr. Elira Kelmendi,Anesthesiology,DEP001,Contract,Specialist,26.3,2009-05-03
+PRV00384,Dr. Ilir Gashi, Radiology,DEP002,Full-Time,Specialist,2.6,2010-11-09
+PRV00385,Dr. Elira Morina,Anesthesiology,DEP006,Contract,Senior Specialist,6.7,2024-01-02
+PRV00386,Dr. Gent Mustafa,Pediatrics,DEP007,Full-Time,Specialist,11.0,2011-10-31
+PRV00387,Dr. Arian Rama,Internal Medicine,DEP004,Full-Time,Resident,6.7,2010-02-15
+PRV00388,Dr. Sara Hoxha, Dermatology,DEP012,Part-Time,Resident,15.6,2024-07-29
+PRV00389,Dr. Teuta Mustafa ,Radiology,DEP007,FULL-TIME,Senior Specialist,12.4,2007-09-23
+PRV00390,Dr. Blerina Krasniqi,Oncology,DEP002,Full-Time,CONSULTANT,5.5,2014-09-09
+PRV00391,dr. drita morina,ent,DEP009,Part-Time,Specialist,10.9,2016-12-27
+PRV00392,Dr. Ilir Rama,Anesthesiology,DEP005,contract,Resident ,6.7,2020-07-16
+PRV00393,Dr. Mira Morina,Internal Medicine,DEP002,Full-Time ,Resident,7.4,2014-10-24
+PRV00394,Dr. Luan Morina,Oncology,DEP006,Full-Time,specialist,6.0,2014-05-10
+PRV00395,Dr. Mira Mustafa ,Orthopedics,DEP012,Full-Time,Specialist,4.0,2022-02-27
+PRV00396,Dr. Nora Shala,Anesthesiology,DEP009,Full-Time,Senior Specialist,4.4,2020-04-20
+PRV00397,Dr. Mira Berisha,Pediatrics,DEP007,Part-Time,Consultant,19.8,2024-07-12
+PRV00398, Dr. Teuta Bytyqi,dermatology,DEP001,Full-Time,Specialist,4.6,2020-08-25
+PRV00399,Dr. Arian Gashi,Radiology,DEP008,Full-Time,Resident,11.1,2015-11-04
+PRV00400,Dr. Arta Gashi,ENT,DEP013,Full-Time,Resident,6.0,2020-11-22
+PRV00401,DR. ZANA GASHI,Emergency Medicine,DEP005,Full-Time, Specialist,5.6,2013-11-10
+PRV00402,Dr. Luan Kelmendi,Cardiology,DEP011,Full-Time,Specialist,4.8,2013-11-15
+PRV00403,Dr. Drita Berisha,ENT,DEP004,Part-Time,Specialist,13.6,2024-11-13
+PRV00404,Dr. Gent Mustafa,ENT,DEP001,Part-Time,Consultant,1.5,2019-11-09
+PRV00405,dr. zana gashi, Oncology,DEP011,Part-Time,Consultant,3.0,2021-06-28
+PRV00406,Dr. Nora Gashi,Emergency Medicine,DEP009,Full-Time,Specialist,4.6,2014-11-02
+PRV00407,Dr. Mira Berisha,Dermatology,DEP006,Full-Time,SENIOR SPECIALIST,11.3,2008-12-10
+PRV00408,Dr. Valon Mustafa,INTERNAL MEDICINE,DEP012,Full-Time,Specialist ,20.9,2012-11-16
+PRV00409,Dr. Arta Morina,Dermatology,DEP013,Part-Time,Consultant,1.0,2020-08-05
+PRV00410,DR. BLERINA MUSTAFA,Orthopedics,DEP013,Full-Time,Senior Specialist,10.9,2022-12-01
+PRV00411,Dr. Luan Hoxha,Dermatology,DEP011,Part-Time,Senior Specialist,1.5,2013-03-26
+PRV00412,Dr. Arta Morina,Oncology ,DEP007,Part-Time,Specialist,5.1,2016-07-11
+PRV00413,DR. ILIR HOXHA,oncology,DEP011,Full-Time,Consultant,0.5,2016-08-15
+PRV00414,Dr. Arian Kelmendi,ENT,DEP003,Full-Time,Specialist,5.7,2023-04-23
+PRV00415,dr. blerina bytyqi,Oncology ,DEP013,Full-Time,Senior Specialist,1.6,2012-03-27
+PRV00416,Dr. Ilir Shala, Oncology,DEP009,Part-Time,Senior Specialist,4.7,2008-09-19
+PRV00417,DR. BLERINA SHALA,Neurology,DEP009,Full-Time,senior specialist,6.8,2008-01-06
+PRV00418,Dr. Mira Morina,Surgery,DEP009,Full-Time,Resident,5.5,2014-09-19
+PRV00419,dr. mira rama,Orthopedics,DEP008,Part-Time,Resident,4.3,2014-03-08
+PRV00420,Dr. Ilir Kelmendi,ENT,DEP011,FULL-TIME,resident,8.4,2023-06-23
+PRV00421,Dr. Nora Berisha,Radiology,DEP003,Full-Time,SPECIALIST,11.3,2020-12-24
+PRV00422,Dr. Luan Shala,Surgery,DEP003,Full-Time,Resident,8.2,2013-10-21
+PRV00423,Dr. Luan Bytyqi,Surgery ,DEP010,Full-Time,Resident,3.6,2021-06-14
+PRV00424,Dr. Drita Morina,Dermatology,DEP004,Full-Time,Specialist,8.1,2011-09-07
+PRV00425,Dr. Arben Gashi,Internal Medicine ,DEP008,Part-Time,consultant,2.1,2019-04-07
+PRV00426,Dr. Zana Krasniqi,Surgery,DEP004,Full-Time,Resident,9.4,2007-06-26
+PRV00427,Dr. Blerina Bytyqi ,Emergency Medicine,DEP005,Contract,CONSULTANT,13.2,2007-01-12
+PRV00428, Dr. Ilir Krasniqi,ENT,DEP001,Full-Time,Senior Specialist,16.2,2024-04-28
+PRV00429,DR. TEUTA MUSTAFA,Orthopedics,DEP012,FULL-TIME,Specialist,3.5,2016-09-07
+PRV00430,Dr. Gent Berisha,Internal Medicine,DEP009,FULL-TIME,Senior Specialist,9.1,2022-12-26
+PRV00431,Dr. Arian Gashi,Internal Medicine,DEP001,Full-Time,CONSULTANT,4.9,2008-12-25
+PRV00432,DR. ARIAN MUSTAFA,RADIOLOGY,DEP009,Part-Time,Senior Specialist,4.7,2012-07-31
+PRV00433,dr. elira krasniqi,internal medicine,DEP011,Full-Time,Specialist,11.3,2021-11-04
+PRV00434,DR. DRITA RAMA,ENT,DEP006,FULL-TIME,Senior Specialist,6.6,2021-01-01
+PRV00435,Dr. Luan Shala ,ENT,DEP012,Full-Time,Resident,4.9,2007-03-19
+PRV00436,Dr. Luan Berisha,Surgery,DEP002,Full-Time,Senior Specialist,2.7,2024-07-21
+PRV00437,Dr. Arta Hoxha,NEUROLOGY,DEP012,FULL-TIME,SPECIALIST,3.9,2016-02-08
+PRV00438,Dr. Mira Mustafa,Neurology,DEP005,Full-Time,Specialist,17.8,2022-04-11
+PRV00439,Dr. Gent Shala,Dermatology,DEP004,Full-Time,Specialist,1.2,2012-01-03
+PRV00440,Dr. Mira Hoxha,Surgery,DEP007,Part-Time,Senior Specialist,3.7,2022-07-19
+PRV00441,Dr. Zana Mustafa,Neurology,DEP008,Full-Time,Specialist,16.4,2018-07-24
+PRV00442,Dr. Elira Mustafa,Cardiology,DEP012,Part-Time,Consultant,9.3,2010-12-22
+PRV00443,Dr. Gent Krasniqi,Anesthesiology,DEP002,FULL-TIME,Consultant,4.3,2007-04-06
+PRV00444,Dr. Blerina Krasniqi,ENT,DEP003,Full-Time,Specialist,7.8,2015-05-20
+PRV00445,Dr. Arian Rama,Dermatology,DEP002,Contract,SPECIALIST,4.2,2007-02-28
+PRV00446,dr. teuta kelmendi,Surgery,DEP008,Full-Time,resident,2.6,2019-06-24
+PRV00447,Dr. Ilir Rama,Radiology,DEP006,Contract,Specialist,20.1,2023-02-14
+PRV00448,dr. mira shala,ENT,DEP013, Full-Time,SENIOR SPECIALIST,22.9,2010-04-22
+PRV00449,Dr. Drita Shala ,Internal Medicine ,DEP001,Full-Time, Specialist,7.6,2024-04-11
+PRV00450,Dr. Ilir Gashi,Anesthesiology,DEP006,FULL-TIME,Senior Specialist,13.6,2010-02-18
+PRV00451,Dr. Nora Berisha,Anesthesiology,DEP004,Contract,senior specialist,8.4,2017-01-01
+PRV00452,Dr. Mira Shala, Anesthesiology,DEP005,Full-Time,Senior Specialist,4.9,2024-02-03
+PRV00453,Dr. Elira Berisha,Emergency Medicine,DEP012,Contract, Specialist,4.0,2018-01-17
+PRV00454,Dr. Arian Bytyqi,ENT,DEP005,FULL-TIME, Consultant,3.1,2008-12-02
+PRV00455,Dr. Luan Krasniqi,Anesthesiology,DEP011,full-time,Senior Specialist,1.4,2008-04-27
+PRV00456,Dr. Arben Krasniqi,Radiology,DEP005,FULL-TIME,specialist,8.9,2017-08-31
+PRV00457,Dr. Arian Gashi,Neurology,DEP004, Full-Time,senior specialist,10.0,2020-07-31
+PRV00458,Dr. Mira Morina,Cardiology,DEP005,Full-Time,SENIOR SPECIALIST,5.6,2024-11-25
+PRV00459,Dr. Sara Morina,Orthopedics,DEP011,Full-Time,Senior Specialist,1.5,2011-07-30
+PRV00460,Dr. Luan Krasniqi,Cardiology,DEP013,Full-Time,Senior Specialist,4.3,2015-06-25
+PRV00461,Dr. Teuta Bytyqi,Neurology,DEP007,Full-Time,Resident,4.3,2014-11-30
+PRV00462,DR. ARBEN HOXHA,Oncology,DEP002,Contract,CONSULTANT,4.3,2008-01-01
+PRV00463,Dr. Teuta Bytyqi,Radiology,DEP003,Full-Time,Senior Specialist,4.1,2015-09-19
+PRV00464,Dr. Mira Morina,Cardiology,DEP005,FULL-TIME,Senior Specialist,0.7,2014-01-26
+PRV00465,Dr. Nora Rama,Orthopedics,DEP006,Full-Time,Senior Specialist,5.1,2022-08-17
+PRV00466,Dr. Luan Bytyqi,Cardiology,DEP008,Full-Time ,Senior Specialist,4.5,2007-05-07
+PRV00467,Dr. Valon Mustafa ,Emergency Medicine ,DEP006,Full-Time,Senior Specialist,9.5,2010-10-14
+PRV00468,Dr. Elira Bytyqi ,NEUROLOGY,DEP009,Full-Time,Specialist,6.3,2016-04-19
+PRV00469,Dr. Gent Morina,Anesthesiology ,DEP002,Full-Time,Senior Specialist,18.7,2024-07-28
+PRV00470,Dr. Arben Bytyqi,ENT,DEP007,Full-Time,resident,6.0,2024-12-14
+PRV00471,Dr. Mira Mustafa,Anesthesiology,DEP006,Full-Time,Specialist,12.9,2014-08-10
+PRV00472,Dr. Drita Gashi,Emergency Medicine,DEP013,Part-Time,Specialist,4.5,2012-11-10
+PRV00473,Dr. Blerina Berisha,Internal Medicine,DEP012,Full-Time,Specialist,11.5,2012-02-11
+PRV00474,Dr. Luan Gashi,General Practice ,DEP010,full-time,Specialist,5.1,2009-03-13
+PRV00475,Dr. Elira Shala,ENT ,DEP012,Full-Time,Specialist,3.2,2021-10-15
+PRV00476,Dr. Sara Berisha,Internal Medicine,DEP011,Part-Time,Specialist,8.7,2024-05-30
+PRV00477,dr. teuta bytyqi,Oncology,DEP003,Full-Time,Resident,4.8,2015-07-02
+PRV00478,DR. ILIR BYTYQI,General Practice,DEP002,Full-Time,Consultant,6.0,2023-08-18
+PRV00479,Dr. Teuta Morina,Neurology,DEP011,Full-Time,Resident,1.4,2012-05-03
+PRV00480,DR. ARIAN KELMENDI,Emergency Medicine,DEP013,Full-Time,Consultant,10.4,2008-01-19
+PRV00481,Dr. Ilir Berisha,Oncology,DEP012,Full-Time,Consultant,4.4,2018-04-18
+PRV00482,Dr. Ilir Rama,General Practice,DEP010,Full-Time,Senior Specialist,1.3,2024-08-12
+PRV00483,dr. nora berisha,Surgery,DEP013,Full-Time,Senior Specialist,2.4,2016-09-07
+PRV00484,Dr. Arben Berisha,Dermatology,DEP001,Full-Time,Resident,2.0,2018-11-12
+PRV00485,Dr. Sara Kelmendi,ENT,DEP005,Full-Time,Specialist,8.1,2021-07-05
+PRV00486,Dr. Arian Hoxha,Orthopedics,DEP008,Full-Time,SENIOR SPECIALIST,11.0,2017-05-27
+PRV00487,Dr. Arian Krasniqi,Cardiology ,DEP002,Full-Time,Specialist,7.1,2018-03-26
+PRV00488,Dr. Sara Berisha ,Pediatrics,DEP007,Full-Time,Consultant,10.5,2008-02-15
+PRV00489,DR. DRITA KRASNIQI,Neurology,DEP007,Full-Time,Specialist,5.4,2022-09-30
+PRV00490,Dr. Nora Berisha,General Practice,DEP002,Full-Time,Specialist,13.3,2019-04-29
+PRV00491,Dr. Nora Shala,Anesthesiology,DEP003,full-time,Senior Specialist,9.8,2022-02-23
+PRV00492,dr. teuta kelmendi,Pediatrics,DEP005,Full-Time,Specialist,7.0,2023-08-25
+PRV00493,DR. MIRA MUSTAFA,Neurology,DEP003,Full-Time ,Specialist,5.3,2021-07-31
+PRV00494,Dr. Mira Kelmendi, Pediatrics,DEP012,Part-Time,Senior Specialist,13.0,2010-10-30
+PRV00495,Dr. Gent Gashi,Radiology,DEP012,Part-Time,Specialist,11.6,2021-07-17
+PRV00496,Dr. Ilir Bytyqi,DERMATOLOGY,DEP002,Full-Time,Specialist,26.3,2013-07-13
+PRV00497,DR. NORA HOXHA,Surgery,DEP010,Full-Time,Senior Specialist,13.8,2018-04-30
+PRV00498,Dr. Luan Berisha,Neurology,DEP009,Full-Time,Specialist,4.5,2021-01-09
+PRV00499,Dr. Sara Mustafa,Internal Medicine,DEP010,Full-Time,Senior Specialist,14.5,2019-08-14
+PRV00500,Dr. Sara Mustafa,Anesthesiology,DEP011,Full-Time,Specialist,11.5,2020-10-13
+PRV00501,dr. arta mustafa,Pediatrics ,DEP002,Full-Time,Resident,8.1,2008-03-09
+PRV00502, Dr. Sara Krasniqi,Oncology,DEP008,Full-Time,Specialist ,11.9,2008-03-01
+PRV00503,Dr. Valon Berisha,Radiology,DEP010,FULL-TIME,Consultant,8.8,2017-05-21
+PRV00504,Dr. Valon Rama,Pediatrics,DEP009,Part-Time,Consultant,15.1,2012-06-16
+PRV00505,Dr. Sara Bytyqi,Radiology,DEP002,Full-Time,Specialist ,20.3,2012-09-18
+PRV00506,Dr. Blerina Rama,Anesthesiology,DEP008,Part-Time,RESIDENT,20.8,2009-06-01
+PRV00507,Dr. Luan Bytyqi,Neurology,DEP006,full-time,Senior Specialist,14.9,2014-09-08
+PRV00508,Dr. Valon Krasniqi,Surgery,DEP003,Full-Time,Consultant,6.6,2023-10-07
+PRV00509,Dr. Arian Hoxha,Dermatology,DEP003,Part-Time,Consultant,17.4,2010-04-28
+PRV00510,Dr. Mira Bytyqi,Pediatrics,DEP005,part-time,Senior Specialist,10.6,2015-06-11
+PRV00511,Dr. Teuta Shala ,Oncology,DEP010,Part-Time,resident,6.0,2018-10-28
+PRV00512,Dr. Arben Mustafa, Orthopedics,DEP010,Full-Time,Specialist ,1.6,2010-07-13
+PRV00513,Dr. Gent Kelmendi,GENERAL PRACTICE,DEP010,Part-Time ,Senior Specialist,1.4,2013-11-30
+PRV00514,Dr. Ilir Morina,Emergency Medicine,DEP004,Part-Time,Consultant ,4.8,2013-09-24
+PRV00515,Dr. Zana Rama,Oncology,DEP001,Full-Time,Senior Specialist,3.2,2010-05-21
+PRV00516,DR. BLERINA RAMA,Pediatrics,DEP013,Full-Time,Specialist ,1.5,2013-06-24
+PRV00517,Dr. Blerina Berisha,GENERAL PRACTICE,DEP011,Part-Time,Resident,5.4,2010-07-24
+PRV00518,Dr. Gent Rama,ENT,DEP004,Full-Time,Senior Specialist,10.8,2013-12-20
+PRV00519,Dr. Zana Krasniqi,Neurology,DEP007,Full-Time,Specialist,21.2,2008-12-01
+PRV00520,Dr. Sara Berisha,Pediatrics,DEP005,Full-Time,Resident,2.5,2011-03-15
+PRV00521,Dr. Gent Morina,Surgery,DEP012,FULL-TIME,Resident,13.1,2023-12-12
+PRV00522,DR. LUAN KRASNIQI,Surgery,DEP011,Full-Time,Senior Specialist ,10.3,2022-04-15
+PRV00523,Dr. Mira Mustafa,RADIOLOGY,DEP002,Full-Time,Senior Specialist,18.3,2007-05-30
+PRV00524,dr. teuta gashi,anesthesiology,DEP001,Part-Time,Consultant,8.8,2008-08-02
+PRV00525,Dr. Zana Krasniqi,Surgery,DEP003,Full-Time, Specialist,17.5,2007-08-27
+PRV00526,Dr. Arben Mustafa,Emergency Medicine ,DEP001,Contract,Specialist,9.2,2015-03-31
+PRV00527,Dr. Mira Kelmendi,EMERGENCY MEDICINE,DEP010,Part-Time,SPECIALIST,1.3,2018-04-23
+PRV00528,Dr. Drita Krasniqi,Cardiology ,DEP009,Full-Time,Consultant,15.7,2008-11-15
+PRV00529,Dr. Elira Bytyqi,Anesthesiology,DEP008,Full-Time,Specialist,4.9,2014-07-07
+PRV00530,Dr. Drita Bytyqi,Internal Medicine,DEP006,Full-Time,Senior Specialist,8.9,2021-08-21
+PRV00531,Dr. Mira Rama,Oncology,DEP001,Full-Time,Senior Specialist,21.9,2022-09-04
+PRV00532,Dr. Elira Kelmendi,Radiology,DEP004,Full-Time,Specialist,14.7,2016-04-11
+PRV00533,Dr. Zana Rama,Oncology,DEP007,Full-Time,specialist,13.0,2017-10-19
+PRV00534,Dr. Arta Hoxha,General Practice,DEP005,PART-TIME,Specialist,5.7,2024-09-27
+PRV00535,Dr. Nora Hoxha,ENT,DEP013,Full-Time,resident,5.1,2013-03-11
+PRV00536,Dr. Ilir Mustafa,ONCOLOGY,DEP012,Full-Time,senior specialist,7.2,2019-02-14
+PRV00537,DR. NORA BYTYQI,ent,DEP005,Full-Time,Specialist,11.3,2017-11-20
+PRV00538,Dr. Teuta Mustafa ,ENT,DEP010,Full-Time,Senior Specialist,6.0,2011-02-23
+PRV00539,Dr. Arben Kelmendi,Internal Medicine,DEP001,Full-Time,Resident,16.3,2015-03-23
+PRV00540,Dr. Zana Hoxha,Internal Medicine,DEP004,Full-Time,Specialist,7.3,2007-12-14
+PRV00541, Dr. Drita Hoxha,Anesthesiology,DEP008,Full-Time,Consultant,10.4,2007-12-17
+PRV00542,Dr. Sara Rama,INTERNAL MEDICINE,DEP013,Full-Time,Specialist,14.0,2009-03-28
+PRV00543,Dr. Arta Mustafa,Anesthesiology,DEP006,FULL-TIME,Senior Specialist,3.7,2009-10-02
+PRV00544,dr. teuta rama,Surgery,DEP006,Full-Time,Specialist,9.3,2016-02-18
+PRV00545,Dr. Arta Berisha,NEUROLOGY,DEP008,Part-Time,Consultant,3.4,2019-07-23
+PRV00546,dr. drita berisha,Emergency Medicine,DEP006,Full-Time,Specialist,6.6,2010-04-17
+PRV00547,Dr. Blerina Bytyqi ,Pediatrics,DEP012,full-time,Resident,9.4,2023-11-14
+PRV00548,Dr. Ilir Bytyqi,dermatology,DEP002,full-time,Resident,13.8,2024-05-01
+PRV00549,Dr. Teuta Morina,Internal Medicine,DEP005,FULL-TIME,SPECIALIST,11.0,2024-10-08
+PRV00550,dr. drita gashi,Pediatrics,DEP010,Part-Time,Specialist,4.1,2010-05-28
+PRV00551,Dr. Elira Rama,Oncology,DEP004,Full-Time,Specialist,12.2,2017-04-12
+PRV00552,Dr. Zana Kelmendi,Neurology,DEP007,full-time,Resident,6.6,2007-01-29
+PRV00553,DR. TEUTA KELMENDI,Neurology ,DEP008, Full-Time,Specialist,2.4,2018-04-05
+PRV00554,Dr. Sara Shala,Neurology,DEP003,Full-Time,Specialist,15.6,2023-06-23
+PRV00555,Dr. Sara Gashi,Orthopedics,DEP012,Full-Time,Specialist,13.8,2018-09-04
+PRV00556,Dr. Zana Rama,General Practice,DEP007,Part-Time,Consultant,2.1,2015-10-04
+PRV00557,Dr. Gent Berisha,GENERAL PRACTICE,DEP006,Full-Time,Resident,7.0,2022-11-27
+PRV00558,DR. BLERINA KRASNIQI,General Practice,DEP009,Part-Time,Specialist,6.2,2020-09-24
+PRV00559,Dr. Zana Kelmendi,Orthopedics,DEP005,Full-Time,Consultant,3.9,2010-05-04
+PRV00560,Dr. Arta Krasniqi,Pediatrics,DEP012,Full-Time,Consultant,6.1,2019-07-09
+PRV00039,dr. zana krasniqi, Internal Medicine,DEP006,Full-Time,Specialist,9.4,2022-09-16
+PRV00383,Dr. Elira Kelmendi,Anesthesiology,DEP001,Contract,Specialist,26.3,2009-05-03
+PRV00541, Dr. Drita Hoxha,Anesthesiology,DEP008,Full-Time,Consultant,10.4,2007-12-17
+PRV00242,Dr. Teuta Berisha,Neurology,DEP006,Part-Time,Specialist,2.8,2013-06-28
+PRV00247,Dr. Sara Rama,Surgery,DEP009,Full-Time,SENIOR SPECIALIST,10.0,2013-11-09
+PRV00316,Dr. Ilir Hoxha ,internal medicine,DEP004,Part-Time,Specialist,0.9,2008-02-27
+PRV00174,Dr. Arian Shala,Internal Medicine ,DEP007,Full-Time,Consultant,15.4,2021-02-06
+PRV00447,Dr. Ilir Rama,Radiology,DEP006,Contract,Specialist,20.1,2023-02-14
+PRV00315,Dr. Elira Kelmendi,INTERNAL MEDICINE,DEP004,Part-Time,Senior Specialist,4.2,2007-12-04
+PRV00499,Dr. Sara Mustafa,Internal Medicine,DEP010,Full-Time,Senior Specialist,14.5,2019-08-14
+PRV00205,dr. arian morina,EMERGENCY MEDICINE,DEP008,PART-TIME,Resident,11.7,2007-12-23
+PRV00452,Dr. Mira Shala, Anesthesiology,DEP005,Full-Time,Senior Specialist,4.9,2024-02-03
+PRV00340, Dr. Arian Krasniqi,ENT,DEP011,Full-Time,Senior Specialist,10.0,2022-01-14
+PRV00344,Dr. Arta Shala,Neurology,DEP003,Contract,senior specialist,8.6,2017-02-08
+PRV00476,Dr. Sara Berisha,Internal Medicine,DEP011,Part-Time,Specialist,8.7,2024-05-30
+PRV00018,Dr. Arben Morina,Emergency Medicine,DEP006,Full-Time,Specialist,13.6,2008-12-02
+PRV00353,Dr. Arben Bytyqi,General Practice,DEP011,Full-Time,Resident,4.2,2021-01-08
+PRV00282,Dr. Arian Shala,Surgery,DEP010,Part-Time,Specialist ,5.1,2009-09-10
+PRV00369,Dr. Luan Shala,Cardiology,DEP006,Part-Time,senior specialist,7.5,2023-09-15
+PRV00003,Dr. Drita Hoxha,emergency medicine,DEP005,Part-Time,Senior Specialist,2.2,2013-10-07
+PRV00542,Dr. Sara Rama,INTERNAL MEDICINE,DEP013,Full-Time,Specialist,14.0,2009-03-28
+PRV00333,DR. DRITA KELMENDI,Oncology,DEP002,Full-Time,Specialist,0.2,2024-12-08

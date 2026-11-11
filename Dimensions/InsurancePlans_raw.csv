@@ -1,0 +1,75 @@
+PlanID,Insurer,PlanType,CoverageLevel,CopayPct,AllowedRateFactor,ClaimDenialBaseRate,TypicalPaymentDelayDays,ContractModel
+PLN0001,National Health Fund,Private ,Basic,22.3,0.83,0.037,16.0,FFS
+PLN0002,UNION INSURANCE,PRIVATE,Premium,12.9,0.91,0.08,19.0,FFS
+PLN0003,PrivateCare,Public,Basic,1.9,0.74,0.163,40.0,capitated
+PLN0004,SecureLife,Self-Pay,Standard,23.3,0.6,0.126,4.0,FFS
+PLN0005,PrivateCare,Private ,Standard,23.3,0.85,0.047,14.0,FFS
+PLN0006,Out-of-Pocket,Private,Standard,19.2,0.92,0.139,19.0,FFS
+PLN0007,National Health Fund,Public,Standard,0.6,0.83,0.13,38.0,FFS
+PLN0008,EuroHealth,public,Basic,2.7,0.72,0.167,23.0,DRG
+PLN0009,Out-of-Pocket,Public,Basic,2.3,0.8,0.138,26.0,FFS
+PLN0010,Out-of-Pocket,Private, Standard,14.8,0.85,0.091,28.0,drg
+PLN0011,National Health Fund,Public,Standard,5.7,0.79,0.082,31.0,Capitated
+PLN0012,EuroHealth,Private,standard,8.7,0.86,0.047,24.0,DRG
+PLN0013,Union Insurance,Self-Pay,basic,28.1,0.78,0.125,4.0,FFS
+PLN0014,NATIONAL HEALTH FUND,Private,Standard,25.2,0.92,0.096,28.0,DRG
+PLN0015,EuroHealth ,Public,Standard,6.8,0.81,0.179,42.0,FFS
+PLN0016,PrivateCare,Public,Premium,0.5,0.86,0.074,19.0,drg
+PLN0017,national health fund,Private,Premium,24.8,0.83,0.121,25.0,DRG
+PLN0018,National Health Fund,Private ,Basic,19.3,0.89,0.127,17.0,FFS
+PLN0019,National Health Fund,Public,Basic,4.1,0.85,0.14,24.0,DRG
+PLN0020,National Health Fund,Private,Standard,20.0,0.92,0.085,23.0,FFS
+PLN0021,Union Insurance,PRIVATE,Premium,13.8,0.85,0.061,15.0,FFS
+PLN0022,Out-of-Pocket,Private,basic,20.4,0.81,0.12,17.0,drg
+PLN0023,NATIONAL HEALTH FUND,Private,Standard,24.5,0.8,0.085,16.0,FFS
+PLN0024,National Health Fund,Private,Premium,26.8,0.8,0.078,20.0,FFS 
+PLN0025,PrivateCare,Private,Standard,22.5,0.92,0.098,15.0,FFS
+PLN0026,Union Insurance,PUBLIC,STANDARD,0.7,0.77,0.178,40.0,FFS
+PLN0027,SecureLife,Public, Standard,10.1,0.75,0.102,25.0,FFS
+PLN0028,EuroHealth,Private,Basic,11.4,0.92,0.042,28.0,Capitated
+PLN0029,Union Insurance,Private,Standard,24.0,0.83,0.124,11.0,FFS
+PLN0030,Out-of-Pocket,Private,Premium,24.5,0.91,0.082,27.0,FFS
+PLN0031,Union Insurance,PUBLIC,premium,12.0,0.76,0.164,31.0,FFS
+PLN0032,National Health Fund ,Private ,Basic,19.5,0.8,0.103,17.0,DRG
+PLN0033,PrivateCare,Public,Standard,4.9,0.88,0.117,34.0,DRG
+PLN0034,Out-of-Pocket,Public,Standard,0.3,0.86,0.135,33.0,FFS
+PLN0035,SecureLife,Self-Pay,Standard,30.6,0.59,0.171,2.0,FFS
+PLN0036,SecureLife,Private,Basic,9.3,0.94,0.048,19.0,DRG
+PLN0037,National Health Fund,SELF-PAY,Standard,39.1,0.76,0.103,5.0,DRG
+PLN0038,National Health Fund,Public,Standard,7.9,0.73,0.072,25.0,FFS
+PLN0039,National Health Fund,Public,Standard,11.3,0.74,0.173,30.0,drg
+PLN0040,Out-of-Pocket,Public,Basic,7.5,0.86,0.104,36.0,FFS
+PLN0041,SecureLife,Public,Basic,8.3,0.82,0.1,30.0,DRG
+PLN0042,EuroHealth,Self-Pay,Basic,43.6,0.71,0.21,4.0,FFS
+PLN0043,National Health Fund,Private,Standard ,15.9,0.85,0.059,14.0,Capitated
+PLN0044, SecureLife,PUBLIC,Standard,8.0,0.87,0.143,37.0,FFS
+PLN0045,securelife,Private,Basic,27.9,0.87,0.101,24.0,FFS
+PLN0046,PrivateCare,public,Premium,2.6,0.78,0.074,36.0,FFS
+PLN0047,SecureLife,Private,Standard,6.5,0.82,0.131,22.0,DRG
+PLN0048,SecureLife,Public,Basic,9.9,0.85,0.169,41.0,DRG
+PLN0049,SecureLife,Private,Standard,8.6,0.81,0.074,25.0, DRG
+PLN0050,Union Insurance,Public,STANDARD,11.6,0.84,0.089,36.0,FFS
+PLN0051,Union Insurance,Private,Basic,6.6,0.89,0.134,27.0,DRG
+PLN0052,National Health Fund,Self-Pay,Premium ,41.1,0.69,0.184,1.0,Capitated
+PLN0053,eurohealth,Public,Basic,0.4,0.8,0.109,31.0,FFS
+PLN0054, EuroHealth,PUBLIC,Standard,9.1,0.88,0.062,32.0,FFS
+PLN0055,National Health Fund,Private,Standard,16.9,0.82,0.062,18.0,DRG
+PLN0056,EuroHealth,Private,Standard,9.0,0.79,0.116,18.0,ffs
+PLN0057,Out-of-Pocket ,Public,Premium,9.5,0.85,0.087,28.0,FFS
+PLN0058,National Health Fund,Public,Premium,4.8,0.88,0.176,30.0,ffs
+PLN0059,NATIONAL HEALTH FUND,Public,Basic,6.4,0.76,0.134,40.0,FFS
+PLN0060,Union Insurance,Private,PREMIUM,7.7,0.95,0.03,13.0,FFS
+PLN0061,PrivateCare,SELF-PAY,standard,31.2,0.69,0.152,5.0,FFS
+PLN0062,Out-of-Pocket,Private,Standard,15.2,0.92,0.115,27.0,DRG
+PLN0063,SecureLife,Private,Standard,27.3,0.83,0.131,21.0,FFS
+PLN0064, EuroHealth,Public,Premium,11.5,0.79,0.078,36.0,FFS
+PLN0065,privatecare,Private,Basic,9.6,0.89,0.05,28.0,FFS
+PLN0066,National Health Fund,Public,Standard,3.6,0.78,0.118,37.0,FFS
+PLN0067,National Health Fund,Private,BASIC,16.8,0.86,0.075,18.0,FFS
+PLN0068,Union Insurance,public,Basic,2.8,0.84,0.093,20.0,DRG
+PLN0069,Union Insurance,PRIVATE,Standard,11.3,0.9,0.052,23.0,FFS
+PLN0070,privatecare,Private,Basic ,27.9,0.95,0.071,21.0,DRG
+PLN0050,Union Insurance,Public,STANDARD,11.6,0.84,0.089,36.0,FFS
+PLN0057,Out-of-Pocket ,Public,Premium,9.5,0.85,0.087,28.0,FFS
+PLN0069,Union Insurance,PRIVATE,Standard,11.3,0.9,0.052,23.0,FFS
+PLN0068,Union Insurance,public,Basic,2.8,0.84,0.093,20.0,DRG

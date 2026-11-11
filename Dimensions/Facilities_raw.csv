@@ -1,0 +1,17 @@
+FacilityID,FacilityName,City,Region,FacilityType,BedCount,ICUBeds,OpenDate
+FAC001,Pristina Central Hospital,Pristina,Central,Hospital,420,44,2017-06-03
+FAC002,Prizren Regional Hospital,Prizren,South,Hospital ,280,28,2005-07-12
+FAC003,peja regional hospital,Peja,West,HOSPITAL,260,24,2003-04-04
+FAC004,Gjilan Regional Hospital,Gjilan,East,Hospital,220,20,2012-09-07
+FAC005,Mitrovica Regional Hospital,Mitrovica,North,Hospital ,200,18,1999-08-15
+FAC006,Pristina City Clinic A,Pristina,Central,Clinic,0,0,2021-08-06
+FAC007,Pristina City Clinic B,Pristina, Central, Clinic,0,0,2013-01-02
+FAC008,Ferizaj Community Clinic,Ferizaj,South,CLINIC,0,0,2000-07-17
+FAC009,Gjakova Community Clinic, Gjakova,West ,Clinic,0,0,2006-01-27
+FAC010,LIPJAN COMMUNITY CLINIC,Lipjan,CENTRAL,Clinic,0,0,2009-09-10
+FAC011,vushtrri community clinic,vushtrri,North,Clinic,0,0,2013-10-24
+FAC012,Peja Outpatient Center,Peja,West,Clinic,0,0,2007-10-24
+FAC013,Prizren Outpatient Center ,Prizren,South,Clinic,0,0,2001-01-29
+FAC014,CENTRAL DIAGNOSTICS LAB,Pristina,CENTRAL,Diagnostic Center,0,0,2009-04-11
+FAC015,South Imaging Center,Prizren,south,Diagnostic Center,0,0,2006-04-02
+FAC012,Peja Outpatient Center,Peja,West,Clinic,0,0,2007-10-24

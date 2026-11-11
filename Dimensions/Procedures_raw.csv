@@ -1,0 +1,26 @@
+ProcedureID,ProcedureCode,ProcedureName,ServiceLine,CareSetting,BaseCharge,RVU,IsImaging
+PROC0001,99213,Office Visit,CONSULTATION,Outpatient,46.49,16.1,No
+PROC0002,99285,ER Visit High,Emergency ,EMERGENCY,60.09,27.19,No
+PROC0003,93000,ECG,Cardiology,Diagnostics,23.83,18.97,No
+PROC0004,93306,Echocardiogram,Cardiology,Diagnostics,47.09,20.45,No
+PROC0005,71046,Chest X-ray,Radiology,Diagnostics,216.07,12.74,Yes
+PROC0006,70450,ct head, Radiology,Diagnostics,310.16,1.89,Yes
+PROC0007,72148,MRI Lumbar,Radiology ,Diagnostics,183.24,25.02,Yes
+PROC0008,80053,Metabolic Panel,Laboratory,Diagnostics,234.33,1.98,No
+PROC0009,85025,CBC,Laboratory,Diagnostics,423.93,6.49,No
+PROC0010,36415,Blood Draw,Laboratory,Diagnostics,111.76,2.47,No
+PROC0011,12001,Wound Repair,Emergency,Emergency,207.02,12.76,No
+PROC0012,29827,shoulder arthroscopy,Orthopedics,Surgical,1882.51,6.37,No
+PROC0013,47562,Lap Cholecystectomy ,SURGERY,Surgical,1808.42,6.92,No
+PROC0014,45378,Colonoscopy ,INTERNAL MEDICINE,Surgical,672.85,23.03,No
+PROC0015, 58150,HYSTERECTOMY,OB/GYN,surgical,2343.5,5.15,No
+PROC0016,90471,Immunization,Pediatrics,Outpatient,90.25,1.72,No
+PROC0017,19120,Breast Biopsy,Oncology,SURGICAL,1367.03,12.54,No
+PROC0018,64483,Epidural Injection ,Neurology,Surgical,3241.44,18.47,No
+PROC0019,17000,Skin Lesion Removal , Dermatology,Outpatient,71.84,17.22,No
+PROC0020,31231,Nasal Endoscopy,ENT,Outpatient ,106.88,13.19,No
+PROC0021,93010,ECG Interpretation,Cardiology ,Diagnostics ,183.08,22.59,No
+PROC0022,87086,Urine Culture,Laboratory, Diagnostics,268.44,15.79,No
+PROC0023,71260,CT Chest w/ contrast,Radiology,Diagnostics,437.28,21.06,Yes
+PROC0024,27447,Knee Replacement,orthopedics, Surgical,2413.39,18.62,No
+PROC0012,29827,shoulder arthroscopy,Orthopedics,Surgical,1882.51,6.37,No

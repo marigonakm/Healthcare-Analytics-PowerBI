@@ -1,0 +1,15 @@
+DepartmentID,DepartmentName,ClinicalGroup,Is24x7,CostCenter,StaffingLevel,OperationalTier
+DEP001,Emergency,Acute Care,Yes,CC-20,71,Tier 2
+DEP002,Internal Medicine,Acute Care,Yes,CC-30,80,Tier 3
+DEP003,surgery,Acute Care,Yes,CC-40,103,Tier 2
+DEP004,Pediatrics,acute care,Yes, CC-40,33,TIER 2
+DEP005,ob/gyn,Acute Care,Yes,CC-20 ,45,Tier 1
+DEP006,Radiology,Diagnostics,No,CC-10,79,Tier 1
+DEP007,Laboratory,Diagnostics,Yes,CC-30,28,tier 2
+DEP008,Cardiology,Specialty ,Yes,cc-30,99, Tier 2
+DEP009,Orthopedics,Specialty,No,CC-20,40,tier 3
+DEP010,Oncology,Specialty,No,cc-40,90,Tier 1
+DEP011,Neurology,Specialty,No,CC-30,65,Tier 2
+DEP012,dermatology,Outpatient,No,CC-30,122,Tier 1 
+DEP013,ENT,Outpatient,No,CC-20,34,TIER 2
+DEP011,Neurology,Specialty,No,CC-30,65,Tier 2
